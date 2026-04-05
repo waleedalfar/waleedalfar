@@ -11,7 +11,7 @@ I build data-driven applications and user-centered solutions — from automated 
 - 🏗️ Building automated data pipelines with **Python + GitHub Actions** at [CliquePrize](https://www.cliqueprize.com)
 - 🔐 Developing & QA testing authentication APIs (Azure, Google OAuth, SSO)
 - 🔗 Creating backend API integrations with **Branch** for deep linking in Swift iOS apps
-- 📊 Automating App Store Connect metrics ingestion into **Power BI**
+- 📊 Automating metrics ingestion into **Power BI**
 
 ---
 
