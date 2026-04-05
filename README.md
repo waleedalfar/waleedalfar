@@ -2,7 +2,7 @@
 
 **Computer Science @ Arizona State University · DevOps Engineer Intern @ CliquePrize**
 
-I build data-driven applications and user-centered solutions — from automated CI/CD pipelines to AI-powered chatbots.
+I build data-driven applications and user-centered solutions like automated CI/CD pipelines and AI-powered chatbots.
 
 ---
 
