@@ -6,14 +6,6 @@ I build data-driven applications and user-centered solutions like automated CI/C
 
 ---
 
-### 🔧 What I'm Working On
-
-- 🏗️ Building automated data pipelines with **Python + GitHub Actions** at [CliquePrize](https://www.cliqueprize.com)
-- 🔐 Developing & QA testing authentication APIs (Azure, Google OAuth, SSO)
-- 🔗 Creating backend API integrations with **Branch** for deep linking in Swift iOS apps
-- 📊 Automating metrics ingestion into **Power BI**
-
----
 
 ### 🚀 Projects
 
@@ -21,7 +13,6 @@ I build data-driven applications and user-centered solutions like automated CI/C
 |---------|-------------|-------|
 | [**The Trim App**](https://github.com/waleedalfar/trim) | RESTful backend for user accounts & service listings | FastAPI · PostgreSQL · Python |
 | [**First Response AI**](https://github.com/waleedalfar/firstresponse-ai) | AI medical chatbot with context-aware healthcare queries | LangChain · Python · AI |
-| [**Spring Boot API**](https://github.com/waleedalfar/springboot-store) | REST API with dependency management via Maven | Java · Spring Boot · Maven |
 | [**Sweet Home Bakery**](https://sweet-home-bakery-website.vercel.app/) | Responsive website focused on UX & accessibility | HTML · CSS · JavaScript |
 
 ---
