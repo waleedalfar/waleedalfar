@@ -1,8 +1,6 @@
 # Hey, I'm Waleed 👋
 
-**Computer Science @ Arizona State University · DevOps Engineer Intern @ CliquePrize**
-
-I build data-driven applications and user-centered solutions like automated CI/CD pipelines and AI-powered chatbots.
+**Computer Science @ Arizona State University · Software Engineer**
 
 ---
 
@@ -11,8 +9,8 @@ I build data-driven applications and user-centered solutions like automated CI/C
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**The Trim App**](https://github.com/waleedalfar/trim) | RESTful backend for user accounts & service listings | FastAPI · PostgreSQL · Python |
-| [**First Response AI**](https://github.com/waleedalfar/firstresponse-ai) | AI medical chatbot with context-aware healthcare queries | LangChain · Python · AI |
+| [**The Trim App**](https://github.com/waleedalfar/trim) | Fullstack Social Media / Commerce App | FastAPI · PostgreSQL · Python |
+| [**First Response AI**](https://github.com/waleedalfar/firstresponse-ai) | Medical AI LLM with context-aware healthcare queries | LangChain · Python · AI |
 | [**Sweet Home Bakery**](https://sweet-home-bakery-website.vercel.app/) | Responsive website focused on UX & accessibility | HTML · CSS · JavaScript |
 
 ---
