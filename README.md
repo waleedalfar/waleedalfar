@@ -13,7 +13,7 @@
 ### 💼 Currently
 
 - 🔭 Software Engineer Intern experience at **CliquePrize**, building deep-link routing, data pipelines, and email infrastructure
-- 🎓 Undergraduate Teaching & Learning Assistant at ASU, leading C++/OOP labs for 300+ students
+- 🎓 Undergraduate Teaching & Learning Assistant at ASU, leading C++ labs for 300+ students
 - 🎯 Actively seeking **SWE / ML Infra / AI Engineering** roles for new-grad & upcoming terms
 
 ---
