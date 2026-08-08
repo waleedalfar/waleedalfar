@@ -11,8 +11,8 @@
 ---
 
 ### 💼 Currently
-- 📱 Building a native iOS lead-management app designed for streamlined field sales tracking
-- ⚡ Optimizing LLM inference engines to efficiently serve Qwen 3B models for agentic coding workflows
+- 📱 Building a mobile lead-management app designed for streamlined field sales tracking
+- ⚡ Optimizing LLM inference engines to efficiently serve models for agentic coding workflows
 - 🎯 Seeking **SWE / ML Infra / AI Engineering** roles for new-grad & upcoming terms
 
 ---
