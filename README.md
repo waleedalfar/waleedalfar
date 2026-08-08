@@ -11,10 +11,15 @@
 ---
 
 ### 💼 Currently
+- 📱 Building a native iOS lead-management app designed for streamlined field sales tracking
+- ⚡ Optimizing LLM inference engines to efficiently serve Qwen 3B models for agentic coding workflows
+- 🎯 Seeking **SWE / ML Infra / AI Engineering** roles for new-grad & upcoming terms
 
-- 🔭 Software Engineer Intern experience at **CliquePrize**, building deep-link routing, data pipelines, and email infrastructure
-- 🎓 Undergraduate Teaching & Learning Assistant at ASU, leading C++ labs for 300+ students
-- 🎯 Actively seeking **SWE / ML Infra / AI Engineering** roles for new-grad & upcoming terms
+---
+
+### ⏳ Previously
+- 🔭 **Software Engineer Intern** @ **CliquePrize** — Built deep-link routing, data pipelines, and email infrastructure
+- 🎓 **Undergraduate Teaching & Learning Assistant** @ **ASU** — Led C++ labs and mentored 300+ students
 
 ---
 
