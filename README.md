@@ -31,13 +31,13 @@
 | **Linux Kernel Memory Allocator Module** | Kernel module in C servicing userspace memory-allocation requests via manual x86-64 page-table traversal. **2µs p50 / 9µs p99** latency across 100k allocations, ~180ns per page-table walk | `C` `Linux Kernel` |
 | **StormLeads** | Multi-tenant B2B SaaS field-sales platform (mobile + web + API) for roofing canvassing, with row-level-security data isolation, PostGIS geospatial lead scoring, and TCPA-compliant consent enforcement | `TypeScript` `React Native` `Next.js` `NestJS` `PostgreSQL` `Redis` `Docker` `GCP` `Supabase` `Stripe` |
 | [**ASU Class Bot**](https://github.com/waleedalfar/class-tracker-bot) | Real-time class seat-alert bot used by **ASU students**; job-queue + Redis cache + Postgres backend. Resolved a rate-limiter bottleneck, doubling API throughput (20→40 req/min) and cutting worst-case seat-check cycle time 50% | `TypeScript` `Node.js` `discord.js` `PostgreSQL` `Redis` `Prisma` `Docker` `Prometheus` `Grafana` |
-| [**Voice Dictation**](https://github.com/waleedalfar/whicc) | Background voice dictation for Windows — fully local speech-to-text pipeline (Silero VAD + whisper.cpp) that types transcribed speech into any focused window. Auto-detects CUDA vs. CPU-only hardware at setup; no audio or text ever leaves the machine | `Python` `PowerShell` `whisper.cpp` `CUDA` |
+| [**Voice Dictation**](https://github.com/waleedalfar/whicc) | Background voice dictation for Windows — fully local speech-to-text pipeline (Silero VAD + whisper.cpp) that types transcribed speech into any focused window. Auto-detects CUDA vs. CPU-only hardware at setup; no audio or text ever leaves the machine | `Python` `whisper.cpp` `CUDA` |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages** &nbsp; `Python` · `C/C++` · `C#` · `SQL` · `JavaScript` · `TypeScript` · `Java` · `PowerShell`
+**Languages** &nbsp; `Python` · `C/C++` · `C#` · `SQL` · `JavaScript` · `TypeScript` · `Bash`
 
 **Frameworks & Libraries** &nbsp; `PyTorch` · `Triton` · `FastAPI` · `React` · `Nest.js` · `Node.js` · `Scapy`
 
