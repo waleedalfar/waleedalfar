@@ -1,7 +1,7 @@
 # Hey, I'm Waleed 👋
 
 **Computer Science @ Arizona State University** · Graduating May 2027
-**Software Engineer** — Systems, ML Infra & AI Engineering
+**Software Engineer** Systems, ML Infra & AI Engineering
 
 [![Email](https://img.shields.io/badge/Email-contact%40waleedalfar.com-4f8fff?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@waleedalfar.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-waleedalfar.com-818cf8?style=flat-square&logo=vercel&logoColor=white)](https://waleedalfar.com)
@@ -18,8 +18,8 @@
 ---
 
 ### ⏳ Previously
-- 🔭 **Software Engineer Intern** @ **CliquePrize** — Built deep-link routing, data pipelines, and email infrastructure
-- 🎓 **Undergraduate Teaching & Learning Assistant** @ **ASU** — Led C++ labs and mentored 300+ students
+- 🔭 **Software Engineer Intern** @ **CliquePrize** Built deep-link routing, data pipelines, and email infrastructure
+- 🎓 **Undergraduate Teaching & Learning Assistant** @ **ASU** Led C++ labs and mentored 300+ students
 
 ---
 
