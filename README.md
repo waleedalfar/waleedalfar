@@ -1,6 +1,6 @@
 # Hey, I'm Waleed 👋
 
-**Computer Science @ Arizona State University** · Graduating May 2027
+**Computer Science @ Arizona State University** · Graduating May 2027 · 
 **Software Engineer** · Systems, ML Infra & AI Engineering
 
 [![Email](https://img.shields.io/badge/Email-contact%40waleedalfar.com-4f8fff?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@waleedalfar.com)
